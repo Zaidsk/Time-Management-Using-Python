@@ -2,7 +2,7 @@ import random
 
 # Define activities and their average durations in minutes
 activities = {
-    "Sleep": 500,   # 8 hours
+    "Sleep": 500,   # 8 hours and 20 minutes
     "Work/School": 360,  # 6 hours
     "Commute": 60,  # 1 hour
     "Family Time": 120,  # 2 hours
